@@ -745,6 +745,7 @@ CHARA_NAME = {
     7041: ['芳野','水谷芳野','MizutaniYoshino'],
     7042: ['千岁','初芝千歳','HatsushibaChitose'],
     7043: ['美绫','高澤美綾','TakazawaMiaya'],
+    7044: ['樱花','成本桜花','NarimotoOuka']
 
     # =================================== #
     #Clover Day's#
